@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "864757184587",
+    "firebase_url": "https://kma-an.firebaseio.com",
+    "project_id": "kma-an",
+    "storage_bucket": "kma-an.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864757184587:android:c97edf8dfe9f0b4845f5ce",
+        "android_client_info": {
+          "package_name": "com.example.image"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864757184587-t0a1ujcb982npm838bhivb0bnfb4p2li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2eZWZ1Q3FeZVj6cUyRGNb2Ms2C-LssGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864757184587-t0a1ujcb982npm838bhivb0bnfb4p2li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
